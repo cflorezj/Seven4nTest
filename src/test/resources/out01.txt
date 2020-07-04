@@ -1,0 +1,3 @@
+(-2,4) heading WEST 
+(-1,3) heading SOUTH 
+(0,0) heading WEST 
